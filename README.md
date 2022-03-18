@@ -1,4 +1,4 @@
-# eup_photography
+# EUP Photography Mobile Application (Flutter Learnign App)
 
 This is a first attempt at a Flutter app for a photography business that I run.
 
